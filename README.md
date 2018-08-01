@@ -1,4 +1,4 @@
-Hi! 👋
+touch arrays.learn-co-sandboxHi! 👋
 
 You've opened the IDE Sandbox. 🎉
 
